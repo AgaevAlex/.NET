@@ -1,0 +1,16 @@
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\BarcodeDemo.exe.config
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\BarcodeDemo.exe
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\BarcodeDemo.pdb
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\DataMatrix.net.dll
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.dll
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.presentation.dll
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.pdb
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.xml
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.presentation.pdb
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\bin\Debug\zxing.presentation.xml
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\BarcodeDemo.Properties.Resources.resources
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\DataMatrixDemo.csproj.GenerateResource.cache
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\DataMatrixDemo.csproj.CoreCompileInputs.cache
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\DataMatrixDemo.csproj.CopyComplete
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\BarcodeDemo.exe
+F:\Users\Alexey\source\repos\BarcodeDemo\BarcodeDemo\obj\Debug\BarcodeDemo.pdb
